@@ -1,0 +1,6 @@
+aws_region    = "us-east-1"
+cluster_name  = "day4-cluster"
+instance_type = "t2.micro"
+server_port   = 8080
+min_size      = 2
+max_size      = 5
