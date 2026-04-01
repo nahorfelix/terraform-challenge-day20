@@ -21,7 +21,7 @@ Updated `webserver-cluster-dev/user-data.sh` from `Day 20 webserver v2` to `Day 
 ```bash
 git checkout -b update-app-version-day20
 git add .
-git commit --trailer "Made-with: Cursor" -m "Update app response to v3 for Day 20"
+git commit -m "Update app response to v3 for Day 20"
 git push origin update-app-version-day20
 ```
 
